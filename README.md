@@ -22,7 +22,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 ### Destaques
 
 - **Sem instalação:** Não precisa instalar nada — é só baixar, extrair e abrir.
-- **100% Offline:** Todas as informações, imagens, mapas e áudios funcionam sem internet.
+- **100% Offline:** Todas as informações, imagens e mapas funcionam sem internet.
 - **Português e Inglês:** Troque o idioma a qualquer momento diretamente na Tela Inicial.
 - **Seus dados salvos:** Configurações, sets favoritos, presets de mochila, marcações de farm e seus charms ficam salvos automaticamente ao lado do aplicativo.
 
@@ -252,7 +252,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 ### Highlights
 
 - **No installation needed:** Just download, extract, and run.
-- **100% Offline:** All databases, images, maps, and audio work without an internet connection.
+- **100% Offline:** All databases, images and maps work without an internet connection.
 - **English & Portuguese:** Switch languages anytime straight from the Title Screen.
 - **Saved User Data:** Your settings, saved armor sets, item bag presets, farm tags, and your charms are saved automatically alongside the app.
 
