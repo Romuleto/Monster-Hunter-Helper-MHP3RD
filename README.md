@@ -56,10 +56,10 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 - **Tela Inicial:** Seleção rápida de idioma (**PT / EN**), botão **Iniciar**, tela de **Créditos** e opção de **Doação**.
 - **Menu Principal:** Central de navegação rápida com acesso direto a todas as ferramentas do app, além de botões globais para mutar/ativar música e efeitos sonoros, minimizar e fechar.
 
-#### 2. Transmog (Armaduras Visuais)
-- Permite mudar a aparência de qualquer uma das 5 peças equipadas (**Cabeça, Peito, Braços, Cintura e Pernas**) mantendo intactos os status e skills reais da sua armadura.
-- Suporte a **Masculino / Feminino**, **Blademaster / Gunner** e busca rápida por nome.
-- Aplica os códigos diretamente no arquivo de cheats do **PPSSPP** sem apagar outros cheats que você já tenha salvos.
+#### 2. Transmog (Armaduras e Armas Visuais)
+- **Transmog de Armaduras:** Permite mudar a aparência de qualquer uma das 5 peças equipadas (**Cabeça, Peito, Braços, Cintura e Pernas**) mantendo intactos os status e skills reais da sua armadura, com suporte a **Masculino / Feminino** e **Blademaster / Gunner**.
+- **Transmog de Armas:** Permite alterar a aparência da sua **arma equipada** para o visual de outra arma da mesma classe, preservando o ataque, elemento, afiação e slots da arma original.
+- Conta com busca rápida por nome e aplica os códigos diretamente no arquivo de cheats do **PPSSPP** sem apagar outros cheats que você já tenha salvos.
 
 #### 3. Monster DB — Monster Charts (Fraquezas e Áreas de Dano)
 - **Imagem do Corpo e Hitzones:** Exibe o corpo do monstro com as áreas de dano de **Corte (Slash)**, **Impacto (Blunt)** e **Tiro (Shot)** para você saber exatamente onde bater.
@@ -79,7 +79,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 
 #### 6. Armor Searcher
 - Buscador completo de combinações de sets mistos de armadura (estilo **Athena's ASS**), totalmente integrado ao aplicativo.
-- Filtre por **Rank**, **Gênero**, **Blademaster / Gunner**, **Slots da Arma**, **Defesa Mínima**, seus **Charms salvos (`mycharms.txt`)** e múltiplas **Skills desejadas**.
+- Filtre por **Rank**, **Gênero**, **Blademaster / Gunner**, **Slots da Arma**, **Defesa Mínima**, utilizar somente seus **Charms salvos** e múltiplas **Skills desejadas**.
 - Permite fixar ou excluir peças específicas, salvar seus sets favoritos em **Meus Sets** e visualizar todos os **materiais necessários** para forjar o set.
 
 #### 7. Charm Table (Método Kelbi Horn e Descoberta de Tabela)
@@ -150,6 +150,18 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 ---
 
+### 💬 Notas do Projeto, Créditos e Apoio
+
+- **Desenvolvimento Assistido por IA (AI-Assisted):**  
+  Este projeto é desenvolvido de forma **assistida por IA**, mas **não é "vibe coded"** — todo o código, comportamento das telas e informações do jogo são cuidadosamente revisados e validados manualmente. Apesar do auxílio da IA, há muito tempo e cuidado investidos aqui, já que o aplicativo está sendo desenvolvido, testado e revisado por **apenas uma pessoa**.
+- **Comunidade e Créditos:**  
+  O **Monster Hunter Helper** só é possível graças a inúmeras pessoas da comunidade que, ao longo de vários anos, pesquisaram, catalogaram e compartilharam informações, tabelas, ferramentas e imagens sobre o jogo. Todos os colaboradores e fontes de referência estão devidamente creditados na tela de **Créditos** dentro do próprio app.
+- **100% Gratuito, Sempre:**  
+  O aplicativo é **100% gratuito e sempre será** — feito de fã para fã. Se o app te ajudou nas suas caçadas e você quiser contribuir de forma opcional para agradecer e apoiar o projeto:  
+  👉 **[Apoiar via LivePix](https://livepix.gg/romuleto)**
+
+---
+
 ## 🇺🇸 English (EN)
 
 ### What is Monster Hunter Helper?
@@ -197,10 +209,10 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 - **Title Screen:** Quick **EN / PT** language switch, **Start** button, **Credits**, and **Donate** popups.
 - **Main Menu:** Central hub with direct access to all tools, plus global controls for Music, SFX, minimize, and close.
 
-#### 2. Transmog (Visual Armor)
-- Change the appearance of your 5 equipped armor pieces (**Head, Chest, Arms, Waist, and Legs**) while keeping your original armor stats and skills intact.
-- Supports **Male / Female**, **Blademaster / Gunner**, and quick name search.
-- Applies cheats directly to **PPSSPP** without erasing any other cheats you already have.
+#### 2. Transmog (Visual Armor & Weapons)
+- **Armor Transmog:** Change the appearance of your 5 equipped armor pieces (**Head, Chest, Arms, Waist, and Legs**) while keeping your original armor stats and skills intact, supporting **Male / Female** and **Blademaster / Gunner**.
+- **Weapon Transmog:** Change the visual appearance of your **equipped weapon** to another model from the same weapon class while preserving your original attack, element, sharpness, and slots.
+- Features quick name search and applies cheats directly to **PPSSPP** without erasing any other cheats you already have.
 
 #### 3. Monster DB — Monster Charts (Weaknesses & Hitzones)
 - **Monster Body & Damage Zones (Hitzones):** Shows full-body monster artwork with **Cut (Slash)**, **Impact (Blunt)**, and **Shot (Ammo)** hitzone values so you know exactly where to strike.
@@ -220,7 +232,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 #### 6. Armor Searcher
 - Built-in mixed-set armor builder (inspired by **Athena's ASS**), fully integrated into the app.
-- Filter by **Rank**, **Gender**, **Blademaster / Gunner**, **Weapon Slots**, **Minimum Defense**, your saved **Charms (`mycharms.txt`)**, and desired **Skills**.
+- Filter by **Rank**, **Gender**, **Blademaster / Gunner**, **Weapon Slots**, **Minimum Defense**, use only your saved **Charms**, and desired **Skills**.
 - Pin or exclude specific armor pieces, save builds to **My Sets**, and inspect the **full crafting materials list**.
 
 #### 7. Charm Table (Kelbi Horn Method & Table Finder)
@@ -288,3 +300,15 @@ Unlike traditional mods that require unpacking, editing, or patching internal ga
 2. Extract the folder anywhere on your PC.
 3. Run **`MHP3rd_Helper.exe`**.
 4. *(Optional for Transmog & Item Bag Manager)* Point to your **PPSSPP** `PSP/Cheats` folder inside those screens and turn on **"Enable Cheats"** in PPSSPP settings.
+
+---
+
+### 💬 Project Notes, Credits & Support
+
+- **AI-Assisted Development (Not "Vibe Coded"):**  
+  This project is **AI-assisted**, not blindly *vibe coded* — all code, mechanics, and game data are manually reviewed, tested, and verified by a human. Even with AI assistance, a significant amount of time and effort goes into every update, as the entire project is built and reviewed by **a single solo developer**.
+- **Community & Credits:**  
+  **Monster Hunter Helper** is only possible thanks to the many people in the *Monster Hunter* community who have researched, compiled, and shared data, tools, guides, and artwork over the years. Everyone whose work helped make this possible is credited inside the **Credits** screen of the app.
+- **100% Free Forever:**  
+  This app is **100% free and always will be** — made by a fan, for fans. If it helped you on your hunts and you'd like to say thanks or optionally support ongoing development:  
+  👉 **[Support on Ko-fi](https://ko-fi.com/romuleto)**
