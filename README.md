@@ -34,7 +34,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> *Clique em qualquer tela abaixo para abrir a print em tamanho grande:*
+> *Clique em qualquer tela abaixo para abrir a print em tamanho grande aqui mesmo, sem sair da página:*
 
 <details>
   <summary><b>01. Menu Principal</b></summary>
@@ -135,7 +135,8 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 #### 2. Transmog (Armaduras e Armas Visuais)
 - **Transmog de Armaduras:** Permite mudar a aparência de qualquer uma das 5 peças equipadas (**Cabeça, Peito, Braços, Cintura e Pernas**) mantendo intactos os status e skills reais da sua armadura, com suporte a **Masculino / Feminino** e **Blademaster / Gunner**.
 - **Transmog de Armas:** Permite alterar a aparência da sua **arma equipada** para o visual de outra arma da mesma classe, preservando o ataque, elemento, afiação e slots da arma original.
-- Conta com busca rápida por nome e aplica os códigos diretamente no arquivo de cheats do **PPSSPP** sem apagar outros cheats que você já tenha salvos.
+- **Modo Global e Modo Individual por Item:** Escolha entre o **Modo Global** ou o **Modo Individual**, onde você muda somente o modelo visual de um item específico pelo visual escolhido.
+- Conta com busca rápida por nome, seleção da versão (**Normal / HD**) e aplica os códigos diretamente no arquivo de cheats do **PPSSPP** sem apagar outros cheats que você já tenha salvos.
 
 #### 3. Monster DB — Monster Charts (Fraquezas e Áreas de Dano)
 - **Imagem do Corpo e Hitzones:** Exibe o corpo do monstro com as áreas de dano de **Corte (Slash)**, **Impacto (Blunt)** e **Tiro (Shot)** para você saber exatamente onde bater.
@@ -263,7 +264,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> *Click any screen below to expand it full-size right here:*
+> *Click any screen below to expand it full-size right here without leaving the page:*
 
 <details>
   <summary><b>01. Main Menu</b></summary>
@@ -364,7 +365,8 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 #### 2. Transmog (Visual Armor & Weapons)
 - **Armor Transmog:** Change the appearance of your 5 equipped armor pieces (**Head, Chest, Arms, Waist, and Legs**) while keeping your original armor stats and skills intact, supporting **Male / Female** and **Blademaster / Gunner**.
 - **Weapon Transmog:** Change the visual appearance of your **equipped weapon** to another model from the same weapon class while preserving your original attack, element, sharpness, and slots.
-- Features quick name search and applies cheats directly to **PPSSPP** without erasing any other cheats you already have.
+- **Global & Individual Item Modes:** Choose between **Global Mode** or **Individual Item Mode**, which replaces only the visual model of that specific chosen item with the look you select.
+- Features quick name search, **Normal / HD** version selection, and applies cheats directly to **PPSSPP** without erasing any other cheats you already have.
 
 #### 3. Monster DB — Monster Charts (Weaknesses & Hitzones)
 - **Monster Body & Damage Zones (Hitzones):** Shows full-body monster artwork with **Cut (Slash)**, **Impact (Blunt)**, and **Shot (Ammo)** hitzone values so you know exactly where to strike.
