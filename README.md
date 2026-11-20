@@ -34,7 +34,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> *Clique em qualquer tela abaixo para abrir a print em tamanho grande aqui mesmo, sem sair da página:*
+> *Clique em qualquer tela abaixo para abrir a print em tamanho grande:*
 
 <details>
   <summary><b>01. Menu Principal</b></summary>
@@ -263,7 +263,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> *Click any screen below to expand it full-size right here without leaving the page:*
+> *Click any screen below to expand it full-size right here:*
 
 <details>
   <summary><b>01. Main Menu</b></summary>
