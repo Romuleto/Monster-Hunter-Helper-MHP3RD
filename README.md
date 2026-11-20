@@ -30,23 +30,99 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 
 ### 📸 Prints do App
 
-> *Role para o lado (`← / →`) para ver as próximas telas ou clique em qualquer imagem para ampliar.*
+<p align="center">
+  <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/01_menu.png" width="420" alt="Menu Principal"/><br/><sub><b>Menu Principal</b></sub></td>
-    <td align="center"><img src="screenshots/02_monster_db.png" width="420" alt="Monster DB"/><br/><sub><b>Monster DB (Charts &amp; Fraquezas)</b></sub></td>
-    <td align="center"><img src="screenshots/03_monster_drops.png" width="420" alt="Monster Drops"/><br/><sub><b>Monster Drops (%)</b></sub></td>
-    <td align="center"><img src="screenshots/04_armor_searcher.png" width="420" alt="Armor Searcher"/><br/><sub><b>Armor Searcher</b></sub></td>
-    <td align="center"><img src="screenshots/05_charm_table.png" width="420" alt="Charm Table"/><br/><sub><b>Charm Table &amp; Método Kelbi Horn</b></sub></td>
-    <td align="center"><img src="screenshots/06_weapon_db.png" width="420" alt="Weapon DB"/><br/><sub><b>Weapon DB</b></sub></td>
-    <td align="center"><img src="screenshots/07_item_db.png" width="420" alt="Item DB"/><br/><sub><b>Item DB</b></sub></td>
-    <td align="center"><img src="screenshots/08_map_resources.png" width="420" alt="Map Resources"/><br/><sub><b>Map Resources</b></sub></td>
-    <td align="center"><img src="screenshots/09_item_bag.png" width="420" alt="Item Bag Manager"/><br/><sub><b>Item Bag Manager</b></sub></td>
-    <td align="center"><img src="screenshots/10_transmog.png" width="420" alt="Transmog"/><br/><sub><b>Transmog</b></sub></td>
-    <td align="center"><img src="screenshots/11_key_quests.png" width="420" alt="Key Quests"/><br/><sub><b>Key Quests</b></sub></td>
-  </tr>
-</table>
+> *Clique em qualquer tela abaixo para abrir a print em tamanho grande aqui mesmo, sem sair da página:*
+
+<details>
+  <summary><b>01. Menu Principal</b></summary>
+
+  <p align="center">
+    <img src="screenshots/01_menu.png" width="850" alt="Menu Principal"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>02. Monster DB (Charts, Fraquezas &amp; Hitzones)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/02_monster_db.png" width="850" alt="Monster DB"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>03. Monster Drops (%)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/03_monster_drops.png" width="850" alt="Monster Drops"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>04. Armor Searcher</b></summary>
+
+  <p align="center">
+    <img src="screenshots/04_armor_searcher.png" width="850" alt="Armor Searcher"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>05. Charm Table &amp; Método Kelbi Horn</b></summary>
+
+  <p align="center">
+    <img src="screenshots/05_charm_table.png" width="850" alt="Charm Table"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>06. Weapon DB (Render 3D 360°, Phials &amp; Melodias)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/06_weapon_db.png" width="850" alt="Weapon DB"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>07. Item DB</b></summary>
+
+  <p align="center">
+    <img src="screenshots/07_item_db.png" width="850" alt="Item DB"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>08. Map Resources</b></summary>
+
+  <p align="center">
+    <img src="screenshots/08_map_resources.png" width="850" alt="Map Resources"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>09. Item Bag Manager</b></summary>
+
+  <p align="center">
+    <img src="screenshots/09_item_bag.png" width="850" alt="Item Bag Manager"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>10. Transmog (Armaduras e Armas)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/10_transmog.png" width="850" alt="Transmog"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>11. Key Quests</b></summary>
+
+  <p align="center">
+    <img src="screenshots/11_key_quests.png" width="850" alt="Key Quests"/>
+  </p>
+</details>
 
 ---
 
@@ -183,23 +259,99 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 ### 📸 Screenshots
 
-> *Scroll sideways (`← / →`) to browse all screenshots or click any image to view full size.*
+<p align="center">
+  <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/01_menu.png" width="420" alt="Main Menu"/><br/><sub><b>Main Menu</b></sub></td>
-    <td align="center"><img src="screenshots/02_monster_db.png" width="420" alt="Monster DB"/><br/><sub><b>Monster DB (Charts &amp; Weaknesses)</b></sub></td>
-    <td align="center"><img src="screenshots/03_monster_drops.png" width="420" alt="Monster Drops"/><br/><sub><b>Monster Drops (%)</b></sub></td>
-    <td align="center"><img src="screenshots/04_armor_searcher.png" width="420" alt="Armor Searcher"/><br/><sub><b>Armor Searcher</b></sub></td>
-    <td align="center"><img src="screenshots/05_charm_table.png" width="420" alt="Charm Table"/><br/><sub><b>Charm Table &amp; Kelbi Horn Method</b></sub></td>
-    <td align="center"><img src="screenshots/06_weapon_db.png" width="420" alt="Weapon DB"/><br/><sub><b>Weapon DB</b></sub></td>
-    <td align="center"><img src="screenshots/07_item_db.png" width="420" alt="Item DB"/><br/><sub><b>Item DB</b></sub></td>
-    <td align="center"><img src="screenshots/08_map_resources.png" width="420" alt="Map Resources"/><br/><sub><b>Map Resources</b></sub></td>
-    <td align="center"><img src="screenshots/09_item_bag.png" width="420" alt="Item Bag Manager"/><br/><sub><b>Item Bag Manager</b></sub></td>
-    <td align="center"><img src="screenshots/10_transmog.png" width="420" alt="Transmog"/><br/><sub><b>Transmog</b></sub></td>
-    <td align="center"><img src="screenshots/11_key_quests.png" width="420" alt="Key Quests"/><br/><sub><b>Key Quests</b></sub></td>
-  </tr>
-</table>
+> *Click any screen below to expand it full-size right here without leaving the page:*
+
+<details>
+  <summary><b>01. Main Menu</b></summary>
+
+  <p align="center">
+    <img src="screenshots/01_menu.png" width="850" alt="Main Menu"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>02. Monster DB (Charts, Weaknesses &amp; Hitzones)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/02_monster_db.png" width="850" alt="Monster DB"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>03. Monster Drops (%)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/03_monster_drops.png" width="850" alt="Monster Drops"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>04. Armor Searcher</b></summary>
+
+  <p align="center">
+    <img src="screenshots/04_armor_searcher.png" width="850" alt="Armor Searcher"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>05. Charm Table &amp; Kelbi Horn Method</b></summary>
+
+  <p align="center">
+    <img src="screenshots/05_charm_table.png" width="850" alt="Charm Table"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>06. Weapon DB (360° 3D Render, Phials &amp; Melodies)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/06_weapon_db.png" width="850" alt="Weapon DB"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>07. Item DB</b></summary>
+
+  <p align="center">
+    <img src="screenshots/07_item_db.png" width="850" alt="Item DB"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>08. Map Resources</b></summary>
+
+  <p align="center">
+    <img src="screenshots/08_map_resources.png" width="850" alt="Map Resources"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>09. Item Bag Manager</b></summary>
+
+  <p align="center">
+    <img src="screenshots/09_item_bag.png" width="850" alt="Item Bag Manager"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>10. Transmog (Armor &amp; Weapons)</b></summary>
+
+  <p align="center">
+    <img src="screenshots/10_transmog.png" width="850" alt="Transmog"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>11. Key Quests</b></summary>
+
+  <p align="center">
+    <img src="screenshots/11_key_quests.png" width="850" alt="Key Quests"/>
+  </p>
+</details>
 
 ---
 
