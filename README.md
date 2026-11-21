@@ -7,7 +7,8 @@
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> Clique no idioma desejado abaixo para expandir / Click your preferred language below to expand:
+> Clique no idioma desejado abaixo para expandir
+> Click your preferred language below to expand
 
 <details>
 <summary><strong>🇧🇷 Português (PT-BR) — Guia Completo do App</strong></summary>
