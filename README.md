@@ -181,7 +181,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 
 #### 11. Map Resources (Recursos dos Mapas)
 - Mapas interativos de coleta para todas as áreas do jogo por **Rank**.
-- Pontos numerados diretamente sobre o minimapa (*Mineração, Insetos, Plantas, Cogumelos, Ossos, Pesca e Áreas Secretas*) exibindo cada item coletável e sua **porcentagem (`%`)**.
+- Pontos numerados diretamente sobre o minimapa (*Mineração, Insetos, Plantas, Cogumelos, Ossos, Pesca e Áreas Secretas*) exibindo cada item coletável e sua **quantidade**.
 - **Busca por Item no Mapa:** Pesquise um recurso para destacar em quais mapas, áreas e pontos exatos ele aparece.
 
 ---
@@ -201,7 +201,7 @@ As telas trabalham conectadas entre si para agilizar a sua caçada sem precisar 
 - **Monster DB (Charts) ⇄ Monster Drops:**  
   Alterne entre as **fraquezas/hitzones** e os **drops** mantendo o mesmo monstro selecionado, ou clique em qualquer item na lista de drops para ver todos os monstros que o dropam.
 - **Item DB ➔ Map Resources:**  
-  Para itens coletáveis nos mapas, basta clicar para ir direto ao **Map Resources** já mostrando em quais mapas, áreas e pontos aquele item pode ser coletado e com qual `%`.
+  Para itens coletáveis nos mapas, basta clicar para ir direto ao **Map Resources** já mostrando em quais mapas, áreas e pontos aquele item pode ser coletado e com qual quantidade.
 - **Botão "Voltar" Inteligente:**  
   Sempre que você pula de uma tela para outra, o botão **Voltar** lembra de onde você veio e retorna direto para a tela anterior sem perder sua pesquisa.
 
@@ -412,7 +412,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 #### 11. Map Resources
 - Interactive gathering maps for every location across all **Ranks**.
-- Color-coded numbered spots placed directly on the minimap (*Mining, Bugs, Herbs, Mushrooms, Bones, Fishing, Secret Areas*) listing every item and its **exact `%` chance**.
+- Color-coded numbered spots placed directly on the minimap (*Mining, Bugs, Herbs, Mushrooms, Bones, Fishing, Secret Areas*) listing every item and its **amount**.
 - **Reverse Item Search:** Look up any resource to highlight every map, area, and spot where it can be gathered.
 
 ---
@@ -432,7 +432,7 @@ Every screen is linked so you never waste time re-typing searches across menus:
 - **Monster DB (Charts) ⇄ Monster Drops:**  
   Switch between **weaknesses/hitzones** and **drops** while staying on the same monster, or click any drop entry to see every monster that drops it.
 - **Item DB ➔ Map Resources:**  
-  For gatherable items, jump directly from **Item DB** into **Map Resources** showing every map, area, and spot where that item spawns along with `%` rates.
+  For gatherable items, jump directly from **Item DB** into **Map Resources** showing every map, area, and spot where that item spawns along with amounts.
 - **Context-Aware "Back" Button:**  
   Whenever you jump between screens, the **Back** button remembers where you came from and returns you straight to the previous screen with your search intact.
 
