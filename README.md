@@ -1,6 +1,7 @@
 # Monster Hunter Helper — MHP3rd Helper (`.exe`)
 
-> **Nota:** Este repositório distribui **apenas o executável (`.exe`)** na aba **Releases** (sem código-fonte).  
+> **Nota:** Este repositório distribui **apenas o executável (`.exe`)** na aba **Releases** (sem código-fonte).
+  
 > **Note:** This repository distributes **only the executable (`.exe`)** via **Releases** (source code is not included).
 
 <p align="center">
@@ -8,6 +9,7 @@
 </p>
 
 > Clique no idioma desejado abaixo para expandir
+
 > Click your preferred language below to expand
 
 <details>
