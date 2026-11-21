@@ -1,15 +1,16 @@
 # Monster Hunter Helper — MHP3rd Helper (`.exe`)
 
-<p align="center">
-  <strong>🇧🇷 <a href="#-português-pt-br">Português (PT-BR)</a> &nbsp;|&nbsp; 🇺🇸 <a href="#-english-en">English (EN)</a></strong>
-</p>
-
 > **Nota:** Este repositório distribui **apenas o executável (`.exe`)** na aba **Releases** (sem código-fonte).  
 > **Note:** This repository distributes **only the executable (`.exe`)** via **Releases** (source code is not included).
 
----
+<p align="center">
+  <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
+</p>
 
-## 🇧🇷 Português (PT-BR)
+> Clique no idioma desejado abaixo para expandir / Click your preferred language below to expand:
+
+<details>
+<summary><strong>🇧🇷 Português (PT-BR) — Guia Completo do App</strong></summary>
 
 ### O que é o Monster Hunter Helper?
 
@@ -29,11 +30,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 
 ---
 
-### 📸 Prints do App
-
-<p align="center">
-  <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
-</p>
+### 📸 Prints por Tela
 
 > *Clique em qualquer tela abaixo para abrir a print em tamanho grande:*
 
@@ -238,9 +235,10 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
   O aplicativo é **100% gratuito e sempre será** — feito de fã para fã. Se o app te ajudou nas suas caçadas e você quiser contribuir de forma opcional para agradecer e apoiar o projeto:  
   👉 **[Apoiar via LivePix](https://livepix.gg/romuleto)**
 
----
+</details>
 
-## 🇺🇸 English (EN)
+<details>
+<summary><strong>🇺🇸 English (EN) — Full App Guide</strong></summary>
 
 ### What is Monster Hunter Helper?
 
@@ -260,11 +258,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 ---
 
-### 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
-</p>
+### 📸 Screenshots by Screen
 
 > *Click any screen below to expand it full-size:*
 
@@ -468,3 +462,5 @@ Unlike traditional mods that require unpacking, editing, or patching internal ga
 - **100% Free Forever:**  
   This app is **100% free and always will be** — made by a fan, for fans. If it helped you on your hunts and you'd like to say thanks or optionally support ongoing development:  
   👉 **[Support on Ko-fi](https://ko-fi.com/romuleto)**
+
+</details>
