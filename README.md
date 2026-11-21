@@ -35,7 +35,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> *Clique em qualquer tela abaixo para abrir a print em tamanho grande aqui mesmo, sem sair da página:*
+> *Clique em qualquer tela abaixo para abrir a print em tamanho grande:*
 
 <details>
   <summary><b>01. Menu Principal</b></summary>
@@ -142,7 +142,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 #### 3. Monster DB — Monster Charts (Fraquezas e Áreas de Dano)
 - **Imagem do Corpo e Hitzones:** Exibe o corpo do monstro com as áreas de dano de **Corte (Slash)**, **Impacto (Blunt)** e **Tiro (Shot)** para você saber exatamente onde bater.
 - **Fraquezas Elementais e Status:** Mostra a eficácia de todos os elementos (*Fogo, Água, Trovão, Gelo e Dragão*) e status (*Veneno, Paralisia e Sono*).
-- **Eficácia de Itens e Armadilhas:** Indica se *Pitfall Trap, Shock Trap, Flash Bomb, Sonic Bomb e Carnes* funcionam no monstro, incluindo duração ou imunidade.
+- **Eficácia de Itens e Armadilhas:** Indica se *Pitfall Trap, Shock Trap, Flash Bomb e Sonic Bomb* funcionam no monstro, incluindo duração ou imunidade.
 - **Estados do Monstro:** Monstros que mudam de forma ou quebram partes permitem alternar o estado para ver as fraquezas e a imagem atualizadas.
 - **Dicas de Caçada** e alternância rápida para os drops do monstro selecionado.
 
@@ -163,7 +163,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 #### 7. Charm Table (Método Kelbi Horn e Descoberta de Tabela)
 - **Guia do Método Kelbi Horn:** Explica passo a passo como funciona o método da quest *Kelbi Horn* para manipular o RNG do jogo e conseguir exatamente os charms que você procura.
 - **Tabela Completa de Charms:** Lista os charms disponíveis em cada tabela para consulta rápida.
-- **Descobridor de Tabela:** Ferramenta para identificar exatamente em **qual Charm Table** o seu personagem está no momento com base nos charms que você já possui ou obteve.
+- **Descobridor de Tabela:** Ferramenta para identificar exatamente em **qual Charm Table** o seu personagem está no momento com base nos drops da quest que você obteve.
 
 #### 8. Item Bag Manager (Gerenciador de Mochila)
 - Monte e salve presets completos para os **24 slots da mochila** respeitando o limite de carregamento de cada item.
@@ -266,7 +266,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
   <img src="screenshots/preview_slideshow.gif" width="850" alt="MHP3rd Helper — Slideshow"/>
 </p>
 
-> *Click any screen below to expand it full-size right here without leaving the page:*
+> *Click any screen below to expand it full-size:*
 
 <details>
   <summary><b>01. Main Menu</b></summary>
@@ -373,7 +373,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 #### 3. Monster DB — Monster Charts (Weaknesses & Hitzones)
 - **Monster Body & Damage Zones (Hitzones):** Shows full-body monster artwork with **Cut (Slash)**, **Impact (Blunt)**, and **Shot (Ammo)** hitzone values so you know exactly where to strike.
 - **Elemental Weaknesses & Statuses:** Detailed ratings for **Fire, Water, Thunder, Ice, Dragon** and **Poison, Paralysis, Sleep**.
-- **Item & Trap Effectiveness:** Shows whether *Pitfall Traps, Shock Traps, Flash Bombs, Sonic Bombs, and Meat* work on the monster, including durations or immunities.
+- **Item & Trap Effectiveness:** Shows whether *Pitfall Traps, Shock Traps, Flash Bombs and Sonic Bombs* work on the monster, including durations or immunities.
 - **Monster States:** Monsters with alternate forms or breakable parts let you toggle states to see updated artwork and weaknesses.
 - **Hunting Tips** and instant switching to the selected monster's drops.
 
