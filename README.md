@@ -23,6 +23,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 
 - **Sem instalação:** Não precisa instalar nada — é só baixar, extrair e abrir.
 - **100% Offline:** Todas as informações, imagens e mapas funcionam sem internet.
+- **Compatibilidade:** Aplicativo compatível com sistemas operacionais 32bit e 64bit.
 - **Português e Inglês:** Troque o idioma a qualquer momento diretamente na Tela Inicial.
 - **Seus dados salvos:** Configurações, sets favoritos, presets de mochila, marcações de farm e seus charms ficam salvos automaticamente ao lado do aplicativo.
 
@@ -140,7 +141,7 @@ O **Monster Hunter Helper** é um projeto de aplicativos feitos para rodar offli
 
 #### 3. Monster DB — Monster Charts (Fraquezas e Áreas de Dano)
 - **Imagem do Corpo e Hitzones:** Exibe o corpo do monstro com as áreas de dano de **Corte (Slash)**, **Impacto (Blunt)** e **Tiro (Shot)** para você saber exatamente onde bater.
-- **Fraquezas Elementais e Status:** Mostra a eficácia de todos os elementos (*Fogo, Água, Trovão, Gelo e Dragão*) e status (*Veneno, Paralisia, Sono e KO*).
+- **Fraquezas Elementais e Status:** Mostra a eficácia de todos os elementos (*Fogo, Água, Trovão, Gelo e Dragão*) e status (*Veneno, Paralisia e Sono*).
 - **Eficácia de Itens e Armadilhas:** Indica se *Pitfall Trap, Shock Trap, Flash Bomb, Sonic Bomb e Carnes* funcionam no monstro, incluindo duração ou imunidade.
 - **Estados do Monstro:** Monstros que mudam de forma ou quebram partes permitem alternar o estado para ver as fraquezas e a imagem atualizadas.
 - **Dicas de Caçada** e alternância rápida para os drops do monstro selecionado.
@@ -253,6 +254,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 - **No installation needed:** Just download, extract, and run.
 - **100% Offline:** All databases, images and maps work without an internet connection.
+- **Compatibility:** App compatible with 32-bit and 64-bit operating systems.
 - **English & Portuguese:** Switch languages anytime straight from the Title Screen.
 - **Saved User Data:** Your settings, saved armor sets, item bag presets, farm tags, and your charms are saved automatically alongside the app.
 
@@ -370,7 +372,7 @@ Diferente de mods tradicionais que exigem extrair, editar ou substituir arquivos
 
 #### 3. Monster DB — Monster Charts (Weaknesses & Hitzones)
 - **Monster Body & Damage Zones (Hitzones):** Shows full-body monster artwork with **Cut (Slash)**, **Impact (Blunt)**, and **Shot (Ammo)** hitzone values so you know exactly where to strike.
-- **Elemental Weaknesses & Statuses:** Detailed ratings for **Fire, Water, Thunder, Ice, Dragon** and **Poison, Paralysis, Sleep, KO**.
+- **Elemental Weaknesses & Statuses:** Detailed ratings for **Fire, Water, Thunder, Ice, Dragon** and **Poison, Paralysis, Sleep**.
 - **Item & Trap Effectiveness:** Shows whether *Pitfall Traps, Shock Traps, Flash Bombs, Sonic Bombs, and Meat* work on the monster, including durations or immunities.
 - **Monster States:** Monsters with alternate forms or breakable parts let you toggle states to see updated artwork and weaknesses.
 - **Hunting Tips** and instant switching to the selected monster's drops.
